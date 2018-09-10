@@ -1,0 +1,22 @@
+#navigation img{
+ width: 100px;
+ height: 100px;
+}
+
+#navigation li {
+  font-size: 1.7rem;
+  
+}
+
+#navigation li:hover
+{
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+   border-bottom: solid;
+  border-bottom-color: red;
+}
+
+#image img{
+  width: 100%;
+  height: 90%;
+}
